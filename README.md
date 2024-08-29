@@ -12,7 +12,7 @@ Creating a 3D Visa card flip effect for a payment UI in Flutter adds a dynamic a
 ### 1.Clone the repository:
 
 ```
-git clone https://github.com/your-username/flutter-chat-app.git
+git clone https://github.com/your-username/flutter-chat-app.git](https://github.com/umeshmadushan/card_payement_ui_flutter.git
 
 ```
 
